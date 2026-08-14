@@ -48,3 +48,6 @@ Corrected B.E. to B.Tech. in Aeronautical Engineering and placed Multi-disciplin
 
 ## Version 13
 Replaced the shortened Google Scholar URL with the user's direct Google Scholar profile URL.
+
+## Version 14
+Redrafted the research profile and Research & Innovation section around the user's preferred six research interests: aircraft design; lighter-than-air systems; unmanned aerial vehicles (UAVs); multidisciplinary design optimization; computational fluid dynamics; and artificial intelligence for aerospace applications.
