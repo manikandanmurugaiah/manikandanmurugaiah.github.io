@@ -55,3 +55,19 @@
 .research-list span{display:block;font-size:.78rem;color:var(--muted);margin-top:4px}
 @media(max-width:900px){.research-themes{grid-template-columns:1fr 1fr}.research-feature{grid-template-columns:1fr}.research-columns{grid-template-columns:1fr}}
 @media(max-width:600px){.research-themes{grid-template-columns:1fr}}
+
+.publication-summary{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:28px 0 42px}
+.publication-summary div{border:1px solid var(--line);background:#fff;border-radius:16px;padding:18px;text-align:center}
+.publication-summary strong{display:block;font-size:1.6rem}.publication-summary span{display:block;color:var(--muted);font-size:.78rem;margin-top:4px}
+.pub-group{margin-top:42px}.pub-group-head{margin-bottom:18px}.pub-group-head h3{margin:3px 0 0;font-size:1.45rem}
+.publication-list{display:grid;gap:10px}.publication{display:grid;grid-template-columns:68px 1fr;gap:18px;padding:20px;border:1px solid var(--line);border-radius:14px;background:#fff}
+.publication .year{font-size:.85rem;font-weight:800;color:var(--accent);padding-top:2px}
+.publication h3{font-size:.98rem;line-height:1.45;margin:0 0 7px}.publication p{font-size:.83rem;color:var(--muted);margin:0 0 9px;line-height:1.55}
+.publication a,.book-list a{font-size:.78rem;font-weight:700;color:var(--accent);text-decoration:none;margin-right:10px}
+.publication-list.compact .publication{padding:16px}.publication-list.compact{gap:8px}
+.pub-two-col{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:42px}
+.book-list{display:grid;gap:12px}.book-list article{padding:20px;border:1px solid var(--line);border-radius:14px;background:#fff}
+.book-list h4{margin:0 0 7px;font-size:.96rem;line-height:1.45}.book-list p{margin:0 0 9px;color:var(--muted);font-size:.82rem;line-height:1.5}
+.source-note{margin-top:28px;color:var(--muted);font-size:.76rem}
+@media(max-width:800px){.publication-summary{grid-template-columns:1fr 1fr}.pub-two-col{grid-template-columns:1fr}}
+@media(max-width:600px){.publication{grid-template-columns:1fr;gap:7px}}
