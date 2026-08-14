@@ -169,3 +169,10 @@
 .teaching-resources-preview,.resource-note{margin-top:22px}
 @media(max-width:800px){.section{padding-top:48px;padding-bottom:48px}}
 @media(max-width:600px){.section{padding-top:40px;padding-bottom:40px}}
+
+/* Version 21 — contact phone links */
+.contact-numbers{display:flex;flex-wrap:wrap;gap:12px;margin-top:20px}
+.contact-numbers a{display:flex;flex-direction:column;gap:3px;min-width:190px;padding:14px 18px;border:1px solid var(--line);border-radius:14px;background:#fff;text-decoration:none;color:var(--ink)}
+.contact-numbers a:hover{transform:translateY(-1px)}
+.contact-numbers strong{font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.contact-numbers span{font-size:.95rem;font-weight:700}
