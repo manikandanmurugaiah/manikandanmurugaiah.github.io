@@ -24,3 +24,6 @@ Refined homepage with compact hero spacing, improved typography, academic locati
 
 ## Version 5
 Adjusted hero column proportions and desktop title sizing so the full name displays on one line at normal desktop widths.
+
+## Version 6
+Final homepage refinement: removed the duplicated institution name from the hero section.
