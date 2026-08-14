@@ -19,3 +19,23 @@
   .hero-grid{min-height:auto;gap:42px}
   .profile-card{max-width:420px}
 }
+
+.about-intro{max-width:900px}
+.about-intro p{margin:0 0 18px}
+.about-lead{font-size:1.2rem;line-height:1.75;color:var(--ink)}
+.about-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;margin-top:38px}
+.about-block{border:1px solid var(--line);border-radius:18px;padding:24px;background:rgba(255,255,255,.6)}
+.about-block h3{margin:0 0 16px;font-size:1.08rem}
+.tag-list{display:flex;flex-wrap:wrap;gap:9px}
+.tag-list span{padding:8px 11px;border:1px solid var(--line);border-radius:999px;font-size:.82rem;font-weight:600;background:#fff}
+.timeline{display:grid;gap:17px}
+.timeline div{display:grid;gap:4px}
+.timeline strong{font-size:.94rem}
+.timeline span{font-size:.86rem;color:var(--muted)}
+.clean-list{margin:0;padding-left:19px}
+.clean-list li{margin:0 0 10px;color:var(--muted)}
+.section-lead{max-width:720px;color:var(--muted);font-size:1.05rem}
+@media(max-width:800px){
+  .about-grid{grid-template-columns:1fr}
+  .about-lead{font-size:1.08rem}
+}

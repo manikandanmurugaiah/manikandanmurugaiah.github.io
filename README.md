@@ -27,3 +27,6 @@ Adjusted hero column proportions and desktop title sizing so the full name displ
 
 ## Version 6
 Final homepage refinement: removed the duplicated institution name from the hero section.
+
+## Version 7
+Added a CV-informed About section, confirmed research interests, education, academic leadership, and recognition details. Updated the homepage research statement.
