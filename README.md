@@ -30,3 +30,6 @@ Final homepage refinement: removed the duplicated institution name from the hero
 
 ## Version 7
 Added a CV-informed About section, confirmed research interests, education, academic leadership, and recognition details. Updated the homepage research statement.
+
+## Version 8
+Expanded the Research section with research themes, selected outputs, research impact metrics, patents, and software.
