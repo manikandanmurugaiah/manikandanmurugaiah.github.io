@@ -60,3 +60,6 @@ Standardized all Academic Profile biography paragraphs to the same font size, li
 
 ## Version 18
 Updated the Selected Research Outputs entry for 'On the Role of Artificial Intelligence in Aerospace Engineering' to show The Aeronautical Journal · 2025.
+
+## Version 19
+Expanded Lecture Materials & Downloads with seven course categories: Introduction to Aerospace Engineering, Incompressible Aerodynamics, Aircraft Performance, Flight Dynamics and Control, Spaceflight Mechanics and Attitude Dynamics, Airship Technology, and Modeling, Simulation and Control.
