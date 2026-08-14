@@ -42,3 +42,9 @@ Replaced publication placeholders with the supplied publication record: journals
 
 ## Version 11
 Fixed the profile social links: Google Scholar, ORCID, and GitHub. LinkedIn retained its existing verified URL.
+
+## Version 12
+Corrected B.E. to B.Tech. in Aeronautical Engineering and placed Multi-disciplinary Design Optimization (MDO) first in the requested research-focus sentence.
+
+## Version 13
+Replaced the shortened Google Scholar URL with the user's direct Google Scholar profile URL.
