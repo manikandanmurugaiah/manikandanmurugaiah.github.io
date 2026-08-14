@@ -63,3 +63,6 @@ Updated the Selected Research Outputs entry for 'On the Role of Artificial Intel
 
 ## Version 19
 Expanded Lecture Materials & Downloads with seven course categories: Introduction to Aerospace Engineering, Incompressible Aerodynamics, Aircraft Performance, Flight Dynamics and Control, Spaceflight Mechanics and Attitude Dynamics, Airship Technology, and Modeling, Simulation and Control.
+
+## Version 28
+Added a dedicated Incompressible Aerodynamics resource library with 31 PDF lecture notes/tutorials and direct View / Download links. PDFs are stored in `materials/incompressible-aerodynamics/`.
