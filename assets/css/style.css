@@ -154,3 +154,18 @@
   .resource-note{display:block}
   .resource-note span{display:block;margin-top:6px}
 }
+
+/* Version 20 — compact section spacing */
+.section{padding-top:64px;padding-bottom:64px}
+.section + .section{margin-top:0}
+.section .eyebrow{margin-bottom:8px}
+.section h2{margin-top:0;margin-bottom:18px}
+.section-lead{margin-top:0;margin-bottom:26px}
+.about-grid,.research-themes,.teaching-feature,.resource-course-grid{margin-top:26px}
+.research-feature{margin-top:26px}
+.research-columns,.teaching-grid{margin-top:20px}
+.pub-group{margin-top:34px}
+.pub-two-col{margin-top:34px}
+.teaching-resources-preview,.resource-note{margin-top:22px}
+@media(max-width:800px){.section{padding-top:48px;padding-bottom:48px}}
+@media(max-width:600px){.section{padding-top:40px;padding-bottom:40px}}
