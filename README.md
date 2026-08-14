@@ -15,3 +15,6 @@ A lightweight, responsive academic portfolio designed for GitHub Pages.
 Create a repository named `<your-github-username>.github.io`, upload these files, then enable GitHub Pages from the repository's Settings → Pages.
 
 The site is static HTML/CSS/JavaScript, so no server or database is required.
+
+## Version 3
+Balanced academic homepage layout with a properly sized professional profile photograph.
