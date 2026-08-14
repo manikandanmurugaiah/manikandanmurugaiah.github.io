@@ -207,3 +207,6 @@
 /* Version 26 — mentoring statistics */
 .mentoring-stats{grid-template-columns:repeat(3,1fr)}
 @media(max-width:650px){.mentoring-stats{grid-template-columns:1fr}}
+
+/* Version 27 — professional contact emails */
+.contact-actions span{overflow-wrap:anywhere}
