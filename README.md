@@ -18,3 +18,6 @@ The site is static HTML/CSS/JavaScript, so no server or database is required.
 
 ## Version 3
 Balanced academic homepage layout with a properly sized professional profile photograph.
+
+## Version 4
+Refined homepage with compact hero spacing, improved typography, academic location line, focus tags, and a cleaner profile card.
