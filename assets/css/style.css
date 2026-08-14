@@ -182,3 +182,24 @@
 .software-actions{margin-top:22px}
 .featured-software{display:flex;flex-direction:column}
 .featured-software .software-actions{margin-top:auto;padding-top:8px}
+
+/* Version 25 — Contact & Academic Profiles */
+.contact-grid{display:grid;grid-template-columns:.9fr 1.1fr;gap:22px;margin-top:30px}
+.contact-card{padding:28px;border:1px solid var(--line);border-radius:20px;background:#fff}
+.contact-card h3{margin:7px 0 14px;font-size:1.35rem}
+.contact-card p{color:var(--muted);line-height:1.7}
+.contact-primary{background:linear-gradient(135deg,#f8fbff,#fff)}
+.contact-actions{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:22px}
+.contact-actions a{display:flex;flex-direction:column;gap:4px;padding:15px;border:1px solid var(--line);border-radius:14px;text-decoration:none;color:var(--ink);background:#fff}
+.contact-actions strong{font-size:.76rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+.contact-actions span{font-size:.94rem;font-weight:700}
+.profile-link-list{display:grid}
+.profile-link-list a{display:flex;justify-content:space-between;gap:20px;align-items:center;padding:14px 0;border-top:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.profile-link-list a:first-child{border-top:0}
+.profile-link-list span{font-weight:700}
+.profile-link-list strong{font-size:.78rem;color:var(--accent)}
+.contact-note{display:flex;gap:18px;align-items:baseline;margin-top:22px;padding:18px 20px;border:1px solid var(--line);border-radius:14px;background:#f8fafc}
+.contact-note strong{white-space:nowrap}
+.contact-note span{color:var(--muted);font-size:.84rem}
+@media(max-width:800px){.contact-grid{grid-template-columns:1fr}}
+@media(max-width:600px){.contact-actions{grid-template-columns:1fr}.profile-link-list a{align-items:flex-start;flex-direction:column;gap:3px}.contact-note{display:block}.contact-note span{display:block;margin-top:6px}}
