@@ -227,3 +227,24 @@
 .material-row b{color:var(--accent);font-size:.78rem;white-space:nowrap}
 .material-row:hover strong{color:var(--accent)}
 @media(max-width:650px){.material-row{align-items:flex-start;flex-direction:column;gap:7px}}
+
+/* Version 29 — Aircraft Performance resource page */
+.resource-course-active{border-color:rgba(0,94,184,.35);box-shadow:0 10px 28px rgba(15,35,65,.06)}
+.resource-status.available{color:var(--accent);background:#eef6ff;border-color:#cfe4fb}
+.resource-open{display:inline-block;margin-top:14px;font-weight:800;color:var(--accent);text-decoration:none}
+.course-hero h1{font-family:Georgia,'Times New Roman',serif;color:var(--ink);font-size:clamp(2.5rem,6vw,4.8rem);line-height:1.02;margin:8px 0 20px}
+.material-groups{display:grid;gap:24px}
+.material-group{background:#fff;border:1px solid var(--line);border-radius:20px;padding:26px}
+.material-group h2{font-size:1.18rem;margin:0 0 14px}
+.material-list{display:grid}
+.material-row{display:flex;justify-content:space-between;align-items:center;gap:22px;padding:15px 0;border-top:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.material-row:first-child{border-top:0}
+.material-row span{display:flex;flex-direction:column;gap:3px}
+.material-row small{color:var(--muted);font-size:.76rem}
+.material-row b{color:var(--accent);font-size:.78rem;white-space:nowrap}
+.material-row:hover strong{color:var(--accent)}
+@media(max-width:650px){.material-row{align-items:flex-start;flex-direction:column;gap:7px}}
+
+/* Version 30 — lightweight Google Drive resource hosting */
+.drive-course-btn{margin-left:10px}
+@media(max-width:600px){.drive-course-btn{margin-left:0;margin-top:10px}}

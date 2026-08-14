@@ -66,3 +66,9 @@ Expanded Lecture Materials & Downloads with seven course categories: Introductio
 
 ## Version 28
 Added a dedicated Incompressible Aerodynamics resource library with 31 PDF lecture notes/tutorials and direct View / Download links. PDFs are stored in `materials/incompressible-aerodynamics/`.
+
+## Version 29
+Added a dedicated Aircraft Performance resource page with 22 PDFs across lecture materials, tutorials/worked solutions and a hybrid-electric range topic.
+
+## Version 30
+Lecture PDFs are no longer bundled with the GitHub Pages repository. Incompressible Aerodynamics and Aircraft Performance resource pages link to their public Google Drive course folders, keeping the site lightweight.
