@@ -54,3 +54,6 @@ Redrafted the research profile and Research & Innovation section around the user
 
 ## Version 15
 Updated the low-Reynolds-number airfoil manuscript title and status to Under Revision. Added FALCON and STRATOS manuscripts in SoftwareX Journal as Under Review.
+
+## Version 17
+Standardized all Academic Profile biography paragraphs to the same font size, line height, weight, and body-text color while retaining bold emphasis for research keywords.
