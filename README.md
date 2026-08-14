@@ -51,3 +51,6 @@ Replaced the shortened Google Scholar URL with the user's direct Google Scholar 
 
 ## Version 14
 Redrafted the research profile and Research & Innovation section around the user's preferred six research interests: aircraft design; lighter-than-air systems; unmanned aerial vehicles (UAVs); multidisciplinary design optimization; computational fluid dynamics; and artificial intelligence for aerospace applications.
+
+## Version 15
+Updated the low-Reynolds-number airfoil manuscript title and status to Under Revision. Added FALCON and STRATOS manuscripts in SoftwareX Journal as Under Review.
