@@ -21,3 +21,6 @@ Balanced academic homepage layout with a properly sized professional profile pho
 
 ## Version 4
 Refined homepage with compact hero spacing, improved typography, academic location line, focus tags, and a cleaner profile card.
+
+## Version 5
+Adjusted hero column proportions and desktop title sizing so the full name displays on one line at normal desktop widths.
