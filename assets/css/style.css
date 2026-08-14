@@ -177,3 +177,8 @@
 .contact-numbers strong{font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
 .contact-numbers span{font-size:.95rem;font-weight:700}
 .software-grid{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-top:28px}.software-card{padding:28px;border:1px solid var(--line);border-radius:20px;background:#fff}.software-top{display:flex;justify-content:space-between;gap:15px;align-items:center;color:var(--muted);font-size:.75rem}.software-badge{font-weight:800;letter-spacing:.07em;color:var(--accent)}.software-card h3{font-size:1.65rem;margin:24px 0 3px}.software-fullname{font-weight:700;font-size:.88rem;color:var(--ink)!important;margin:0 0 15px!important}.software-card p{color:var(--muted);font-size:.88rem;line-height:1.65}.software-tags{display:flex;flex-wrap:wrap;gap:7px;margin:18px 0 22px}.software-tags span{padding:6px 9px;border:1px solid var(--line);border-radius:999px;font-size:.72rem;font-weight:600}.software-card .btn{display:inline-block}@media(max-width:750px){.software-grid{grid-template-columns:1fr}.software-top{align-items:flex-start;flex-direction:column;gap:5px}}
+/* Version 24 — consolidated Projects & Software section */
+.project-subheading{margin:38px 0 18px;font-size:1.25rem}
+.software-actions{margin-top:22px}
+.featured-software{display:flex;flex-direction:column}
+.featured-software .software-actions{margin-top:auto;padding-top:8px}
