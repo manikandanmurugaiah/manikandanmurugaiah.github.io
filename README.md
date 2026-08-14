@@ -39,3 +39,6 @@ Added Multi-disciplinary Design Optimization to the research profile and restric
 
 ## Version 10
 Replaced publication placeholders with the supplied publication record: journals, conference presentations, books/chapters, and patents, including available DOI links and source-stated statuses.
+
+## Version 11
+Fixed the profile social links: Google Scholar, ORCID, and GitHub. LinkedIn retained its existing verified URL.
